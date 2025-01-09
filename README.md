@@ -117,15 +117,6 @@ model.add(Dense(units=3, activation='softmax'))  # Trois classes : Acheter, Vend
 
 Il est important de noter que **la précision du modèle est d'environ 50%**, ce qui signifie que le modèle a une probabilité de prédiction de seulement 50% pour chaque catégorie. Cela signifie que le modèle est très basique et ne doit pas être utilisé pour prendre des décisions de trading en temps réel. Ce projet est un exemple d'initiation à l'apprentissage automatique et à l'apprentissage profond, et il est loin d'être un système de prédiction fiable à des fins réelles.
 
----
-
-## 🖼️ Aperçu
-
-Voici à quoi ressemble l'interface de l'application :
-
-![Interface CoinAnalys](https://via.placeholder.com/800x400.png?text=Interface+Graphique+Bitcoin)
-
----
 
 ## 📂 Structure du Projet
 
@@ -144,7 +135,6 @@ CoinAnalys/
 - **Amélioration du modèle** : Augmenter la précision du modèle en optimisant les hyperparamètres et en utilisant davantage de données.
 - **Ajout d'autres indicateurs techniques** : Intégration de nouveaux indicateurs tels que MACD, Bollinger Bands, etc.
 - **Notifications** : Ajouter des alertes en temps réel pour les signaux "Achat" ou "Vente".
-- **Multilingue** : Support des langues supplémentaires.
 
 ---
 
