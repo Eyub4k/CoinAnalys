@@ -140,7 +140,7 @@ CoinAnalys/
 
 ## 🧑‍💻 Contributeurs
 
-- **Votre Nom** - Développeur Principal
+- **Eyub4k** - Développeur Principal
 
 ---
 
